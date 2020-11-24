@@ -14,4 +14,4 @@
 -1) docker ps
 -2) docker images
 -3) docker run -p 5000:5000 rf-api
--4) 
+-4) docker run -t rf-api .
