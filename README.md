@@ -10,3 +10,8 @@
 -Flask file containes the following files 1) Flask_prediction.py 2) cancer_rf.py 
 -Docker_file is individual file with no datatype description.
 
+-Note:comments used in cmd prompt
+-1) docker ps
+-2) docker images
+-3) docker run -p 5000:5000 rf-api
+-4) 
