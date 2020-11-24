@@ -7,7 +7,7 @@
 -Add Flask API information while prediction of test files.
 
 
--Flask file containes the following files 1) Flask_prediction.py 2) cancer_rf.py 
+-Flask file containes the following files 1) Flask_prediction.py 2) cancer_rf.py 3) requirements.txt
 -Docker_file is individual file with no datatype description.
 
 -Note:comments used in cmd prompt
