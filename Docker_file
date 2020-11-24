@@ -1,4 +1,4 @@
-FROM continum/anaconda:4.4.0
+FROM continumio/anaconda:4.4.0
 MAINTAINER UNP, https://unp.education
 COPY ./flask_demo/usr/local/python/
 EXPOSE 5000
