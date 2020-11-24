@@ -15,3 +15,9 @@
 -2) docker images
 -3) docker run -p 5000:5000 rf-api
 -4) docker run -t rf-api .
+
+Run the following command
+->cd 'content/sample_data/Docker sample/'
+->docker built -t rf-api .
+->docker run -p 5000:5000 rf-api
+
